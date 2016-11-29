@@ -1,0 +1,18 @@
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Common\bin\Debug\Common.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Common\bin\Debug\Common.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Common\bin\Debug\OpenSmtp.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Common\obj\Debug\Common.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Common\obj\Debug\Common.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Common\bin\Debug\Common.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Common\bin\Debug\Common.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Common\bin\Debug\OpenSmtp.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Common\obj\Debug\Common.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Common\obj\Debug\Common.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Common\bin\Debug\Common.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Common\bin\Debug\Common.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Common\bin\Debug\OpenSmtp.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Common\obj\Debug\Common.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Common\obj\Debug\Common.pdb

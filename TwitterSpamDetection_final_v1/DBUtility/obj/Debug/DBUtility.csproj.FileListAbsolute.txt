@@ -1,0 +1,24 @@
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DBUtility\bin\Debug\DBUtility.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DBUtility\bin\Debug\DBUtility.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DBUtility\bin\Debug\MySql.Data.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DBUtility\obj\Debug\DBUtility.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DBUtility\obj\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v2\DBUtility\bin\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DBUtility\bin\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v2\DBUtility\bin\Debug\MySql.Data.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_v2\DBUtility\obj\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DBUtility\obj\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DBUtility\bin\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DBUtility\bin\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DBUtility\bin\Debug\MySql.Data.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DBUtility\obj\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DBUtility\obj\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DBUtility\bin\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DBUtility\bin\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DBUtility\bin\Debug\MySql.Data.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DBUtility\obj\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DBUtility\obj\Debug\DBUtility.pdb

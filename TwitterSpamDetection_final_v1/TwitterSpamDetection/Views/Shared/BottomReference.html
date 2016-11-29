@@ -1,0 +1,31 @@
+﻿<footer class="footer">
+    <div class="footer-block buttons"></div>
+    <div class="footer-block author">
+        <ul>
+            <li>Admin Theme Created by <a href="https://github.com/modularcode">ModularCode</a> </li>
+            <li><a href="https://github.com/modularcode/modular-admin-html#get-in-touch">get in touch</a> </li>
+        </ul>
+    </div>
+</footer>
+        </div>
+    </div>
+<!-- Reference block for JS -->
+<script src="../dist/js/app.js"></script>
+<!-- Menu fold/unfold Automatically -->
+<script type="text/javascript">
+    $(function () {
+        var urlString = window.location.toString();
+        if (urlString.indexOf("index.aspx") > 0) {
+            $("#first_group_menu").addClass("active");
+        }
+        if ((urlString.indexOf("DataPullingFromTwitter.aspx") > 0) || (urlString.indexOf("DataDisplay.aspx") > 0) || (urlString.indexOf("TweetDetails.aspx") > 0)) {
+            $("#dataManagementLink").trigger("click");
+            if (urlString.indexOf("DataPullingFromTwitter.aspx") > 0) {
+                $("#dataPulling").addClass("active");
+            }else
+            {
+                $("#dataDisplay").addClass("active");
+            }
+        }
+    });
+</script>

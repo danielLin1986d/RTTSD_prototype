@@ -1,0 +1,30 @@
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Model\bin\Debug\Model.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Model\bin\Debug\Model.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Model\obj\Debug\Model.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Model\obj\Debug\Model.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Model\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Model\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Model\obj\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\Model\obj\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\Model\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\Model\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\Model\obj\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\Model\obj\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\Model\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\Model\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\Model\obj\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\Model\obj\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v6\Model\bin\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\Model\bin\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v6\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_v6\Model\obj\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\Model\obj\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Model\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Model\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Model\obj\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\Model\obj\Debug\Model.pdb

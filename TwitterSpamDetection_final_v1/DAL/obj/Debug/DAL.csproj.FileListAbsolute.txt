@@ -1,0 +1,100 @@
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\DAL.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\DAL.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\DBUtility.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\Model.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\MySql.Data.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\DBUtility.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\bin\Debug\Model.pdb
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\obj\Debug\DAL.dll
+c:\users\guanjun\documents\visual studio 2015\Projects\TwitterSpamDetection\DAL\obj\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\MySql.Data.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\bin\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\obj\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v2\DAL\obj\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\MySql.Data.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\obj\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v3\DAL\obj\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\MySql.Data.dll
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\bin\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\obj\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v4\DAL\obj\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\MySql.Data.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\obj\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v5\TwitterSpamDetection_v5\DAL\obj\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\MySql.Data.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\obj\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_v6\DAL\obj\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\MySql.Data.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\bin\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\obj\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v6\DAL\obj\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\MySql.Data.dll
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\bin\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\obj\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_v7\DAL\obj\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\DAL.pdb
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\DBUtility.dll
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\Model.dll
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\MySql.Data.dll
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\DBUtility.pdb
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\bin\Debug\Model.pdb
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\obj\Debug\DAL.dll
+D:\Lingu\My Code\TwitterSpamDetection_final\DAL\obj\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\DAL.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\DBUtility.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\Model.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\MySql.Data.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\DBUtility.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\bin\Debug\Model.pdb
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\obj\Debug\DAL.dll
+D:\My Code\TwitterSpamDetection\TwitterSpamDetection_final_v1\TwitterSpamDetection_final_v1\DAL\obj\Debug\DAL.pdb
